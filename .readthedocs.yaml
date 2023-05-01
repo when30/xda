@@ -14,8 +14,6 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
-# Canonical URL
-site_url: https://xda.readthedocs.io/en/stable/
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
